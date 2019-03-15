@@ -1,2 +1,2 @@
-# hdaip-extractor
-HDaIP extractor - Historical Document and Information Processing - Extractor
+# hdaip-extract
+HDaIP.extractor - Historical Document and Information Processing - Extractor
